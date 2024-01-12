@@ -30,7 +30,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
   * [Assets](#assets)
   * [Authentication and Authorization](#authentication-and-authorization)
   * [Blazor](#blazor)
-  * [Books](#books)
   * [Build Automation](#build-automation)
   * [Business Intelligence and Reporting](#business-intelligence)
   * [Caching](#caching)
@@ -210,13 +209,13 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [ASP.NET Identity](https://github.com/aspnet/Identity/) - New membership system for ASP.NET applications
 * [ASP.NET SAML](https://github.com/jitbit/AspNetSaml) - SAML authentication support for ASP.NET apps
-* [DotNetOpenAuth](https://github.com/DotNetOpenAuth/DotNetOpenAuth) - A C# implementation of the OpenID, OAuth and InfoCard protocols
 * [Logibit Hawk](https://github.com/logibit/logibit.hawk/) - A F# [Hawk](https://github.com/outmoded/hawk) authentication library
 * [IdentityModel](https://github.com/IdentityModel) - Helper library for identity & access control in .NET 4.5 and MVC4/Web API.
 * [IdentityServer](https://github.com/IdentityServer) - Extensible OAuth2 and OpenID Connect provider framework.
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - A very lightweight library for generating OAuth 1.0a signatures written in C#
 * [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 * [openiddict](https://github.com/openiddict/openiddict-core) - Flexible and versatile OAuth 2.0/OpenID Connect stack for .NET
+* [Topaz](https://www.topaz.sh/docs/software-development-kits/dotnet/install) - A fine-grained authorization system with .NET SDK.
 
 ## Blazor
 
@@ -230,31 +229,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [Nethermind](https://github.com/NethermindEth/nethermind) - full Ethereum client in .NET Core
 
-## Books
-
-* [The Little ASP.NET Core Book](https://recaffeinate.co/book/) - A free, open-source, tutorial-based book aiming to provide a simple introduction to ASP.NET Core.
-* [.NET in Action, Second Edition](https://www.manning.com/books/dotnet-in-action-second-edition) - An introduction to implementing full-featured, cross-platform professional applications on the Microsoft .NET platform. **[$]**
-* [.NET Maui in Action](https://www.manning.com/books/dot-net-maui-in-action) - A book about creating mobile and desktop apps using a common set of .NET tools. **[$]**
-* [ASP.NET Core in Action, Third Edition](https://www.manning.com/books/asp-net-core-in-action-third-edition) - Build professional-grade full-stack web applications using C# and ASP.NET Core. **[$]**
-* [ASP.NET Core Razor Pages in Action](https://www.manning.com/books/asp-net-core-razor-pages-in-action) - A comprehensive guide to how to use Razor Pages to create dynamic websites that are easy to test and scale. **[$]**
-* [ASP.NET Core Security](https://www.manning.com/books/asp-net-core-security) - A practical and hands-on guide to securing web applications built with ASP.NET. **[$]**
-* [ASP.NET Core Web API](https://www.manning.com/books/asp-net-core-web-api) - A book about designing and implementing APIs using the REST and GraphQL standards. **[$]**
-* [Blazor in Action](https://www.manning.com/books/blazor-in-action) - A guide to building  UIs and client-side applications using C# and .NET. **[$]**
-* [Building Web APIs with ASP.NET Core](https://www.manning.com/books/building-web-apis-with-asp-net-core) - Practical beginner’s guide to creating your first web APIs using ASP.NET Core. **[$]**
-* [C# in Depth, Fourth Edition](https://www.manning.com/books/c-sharp-in-depth-fourth-edition) - deep dive into the details of the C# language. **[$]**
-* [CLR via C#, Fourth Edition](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
-* [Code Like a Pro in C#](https://www.manning.com/books/code-like-a-pro-in-c-sharp) - Build on your existing programming skills and upskill to professional-level C# programming. **[$]**
-* [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-principles-practices-patterns) - teaches you to use Dependency Injection to reduce hard-coded dependencies between application components in .NET. **[$]**
-* [Entity Framework Core in Action](https://www.manning.com/books/entity-framework-core-in-action) - teaches how to use Entity Framework Core, including lighter weight data access alternatives such as Dapper. **[$]**
-* [Functional Programming in C#, Second edition](https://www.manning.com/books/functional-programming-in-c-sharp-second-edition) - Real world examples and practical techniques for functional programming in C# without the jargon and theory. **[$]**
-* [Microservices in .NET Core, Second edition](https://www.manning.com/books/microservices-in-net-core-second-edition) - A comprehensive guide to building microservice systems using the .NET stack. **[$]**
-* [Pro .NET 5 Custom Libraries](https://link.springer.com/book/10.1007/978-1-4842-6391-4) - Consists of sample projects for each data type implementation. Demonstrates implementation in C#. Covers dos and don'ts of each implementation. **[$]**
-* [Pro .NET Benchmarking](https://link.springer.com/book/10.1007/978-1-4842-4941-3) - Provides an in-depth look at software benchmarking for accurate performance measurement. Helps you get maximum performance impact by identifying and targeting the right bottlenecks. Includes coverage of the latest compilers and processors. **[$]**
-* [Pro .NET Framework with the Base Class Library](https://link.springer.com/book/10.1007/978-1-4842-4191-2) - Shows valuable tips and examples that reinforce the correct use of manage types, including how to avoid boxing/unboxing and better use of memory resources. **[$]**
-* [Pro .NET Memory Management](https://link.springer.com/book/10.1007/978-1-4842-4027-4) - Takes a deep dive into .NET memory management, including comprehensive coverage of how .NET memory works, implementation details, possible pitfalls, and ways to work around them. **[$]**
-* [Pro ASP.NET Core 6](https://link.springer.com/book/10.1007/978-1-4842-7957-1) - The most comprehensive coverage available on ASP.NET Core 6 in full-color. Detailed explanations and plenty of working code to learn new functionality. Provides a fully functioning ASP.NET Core 6 application that can be used as a template for projects. **[$]**
-* [Pro Microservices in .NET 6](https://link.springer.com/book/10.1007/978-1-4842-7833-8) - Shows you how to get up to speed with .NET 6, Docker, and microservices. Teaches you how to leverage microservice design patterns to strengthen an application. Provides environment options for orchestrators and Azure Kubernetes Service. **[$]**
-
 ## Build Automation
 
 * [Psake](https://github.com/psake/psake) - .NET-based build automation tool written in PowerShell
@@ -265,6 +239,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Nake](https://github.com/yevhen/Nake) - Magic script-based C# task runner
 * [Nuke](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 * [FlubuCore](https://github.com/dotnetcore/FlubuCore) -  A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
+* [ModularPipelines](https://github.com/thomhurst/ModularPipelines) - Write your pipelines in C#
 
 ## Business Intelligence
 
@@ -549,6 +524,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Devtodev](https://github.com/devtodev-analytics/winstore-sdk) - A full-cycle analytics solution for game developers.
 * [UnrealCLR](https://github.com/nxrighthere/UnrealCLR) - Unreal Engine .NET Core integration
 * [osu!framework](https://github.com/ppy/osu-framework) - A 2D application/game written with amazing games in mind.
+* [DotRecast](https://github.com/ikpil/DotRecast) - A port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 
 ## GIS
 
@@ -656,6 +632,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [HttpClientGoodies](https://github.com/jeffijoe/httpclientgoodies.net) - utilities for working with `HttpClient`
 * [WebApiClient](https://github.com/dotnetcore/WebApiClient) An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 * [Apizr](https://github.com/Respawnsive/Apizr) Refit based web api client, but resilient (retry, connectivity, cache, auth, log, priority, etc...).
+* [Fluxzy.Core](https://github.com/haga-rak/fluxzy.core) - A fully managed and fully streamed Man-On-The-Middle library to intercept, record and alter HTTP/1.1, H2, websocket traffic over plain or secure channels.
 
 ## IDE
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
@@ -791,7 +768,6 @@ the Python world. It uses the Pyro protocol to call methods on remote objects.
 ## Markdown Processors
 * [MarkdownSharp](https://code.google.com/archive/p/markdownsharp) - Open source C# implementation of Markdown processor, as featured on Stack Overflow.
 * [F# Formatting](https://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects.  The library contains extensible Markdown parser as a core component.
-* [CommonMark.NET](https://github.com/Knagis/CommonMark.NET) - Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.
 * [markdig](https://github.com/lunet-io/markdig) - A fast, powerful, CommonMark compliant, extensible Markdown processor for .NET.
 
 ## Mail
@@ -883,6 +859,7 @@ metadata in media files, including video, audio, and photo formats
 * [Infinity Crawler](https://github.com/TurnerSoftware/InfinityCrawler) - A simple but powerful web crawler library for .NET
 * [Build Versioning](https://github.com/TurnerSoftware/BuildVersioning) - Simple build versioning for .NET, powered by Git tags
 * [SystemTextJson.JsonDiffPatch](https://github.com/weichch/system-text-json-jsondiffpatch) - High-performance, low-allocating JSON object diff and patch extension for System.Text.Json. Support generating patch document in RFC 6902 JSON Patch format.
+* [dotnet-exec](https://github.com/WeihanLi/dotnet-exec) - A command-line tool for executing C# program without a project file, and you can have your custom entry point other than Main method.
 
 ## MVVM
 
@@ -932,6 +909,9 @@ metadata in media files, including video, audio, and photo formats
 * [ShapeCrawler](https://github.com/ShapeCrawler/ShapeCrawler) - A fluent API for the processing of PowerPoint presentations without Microsoft Office installed.
 * [MiniExcel](https://github.com/shps951023/MiniExcel) - A micro Excel helper avoids OOM and high performance to create/mapping/template-fill-data.
 * [Toxy](https://github.com/nissl-lab/toxy) - .NET text extraction framework supports a few file formats
+* [Syncfusion .NET Word Framework](https://www.syncfusion.com/document-processing/word-framework/net) - A high-performance .NET Word framework without Microsoft Office or interop dependencies. Create, read, and edit Word documents seamlessly. Utilize advanced editor components for easy viewing, editing, and printing. Effortlessly convert Word documents to PDF, HTML, RTF, ODT, and EPUB formats with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+* [Syncfusion .NET Excel Framework](https://www.syncfusion.com/document-processing/excel-framework/net) - A high-performance .NET Excel framework without Microsoft Office or interop dependencies. Create, read, and edit Excel documents seamlessly. Utilize Spreadsheet controls for creating, editing, and viewing easily. Effortlessly convert Excel files to PDF, images, and more with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
+* [Syncfusion .NET PowerPoint Framework](https://www.syncfusion.com/document-processing/powerpoint-framework/net) - A high-performance .NET PowerPoint framework without Microsoft Office or interop dependencies. Create, read, and edit PowerPoint files seamlessly. Effortlessly convert PowerPoint files to PDFs and images with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
 ## OpenAI
 
@@ -942,6 +922,7 @@ metadata in media files, including video, audio, and photo formats
 * [Entity Framework 6](https://github.com/dotnet/ef6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [Entity Framework Core](https://github.com/dotnet/efcore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [EntityFramework.Exceptions](https://github.com/Giorgi/EntityFramework.Exceptions) - Use typed Exceptions for Entity Framework Core when your SQL query violates database constraints in SqlServer, MySql, PostgreSQL or SQLite
+* [EntityFrameworkCore.SqlServer.SimpleBulks](https://github.com/phongnguyend/EntityFrameworkCore.SqlServer.SimpleBulks) - Simple library that can help to sync a large number of records in-memory into the database. Lambda Expression is supported.
 * [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - Entity Framework Core Bulk Extensions for super fast (BulkCopy) CRUD ops + SaveChanges on multiple DBs: SQL, PG, My, Lite.
 * [Dapper](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
@@ -987,6 +968,8 @@ metadata in media files, including video, audio, and photo formats
 * [PdfPig](https://uglytoad.github.io/PdfPig/) - Read and create and extract text and other content from PDFs in C# (port of PdfBox) 
 * [QuestPDF](https://www.questpdf.com/) - QuestPDF is an open-source, modern and battle-tested library that can help you with generating PDF documents by offering friendly, discoverable and predictable C# fluent API.
 * [Kevsoft.PDFtk](https://github.com/kevbite/Kevsoft.PDFtk) - A wrapper to drive the awesome pdftk binary, which can fill PDF forms, get field information, concatenate multiple documents or pages, split documents, add or replace stamps, and can attach files to or download files from pages.
+* [IronPDF](https://ironpdf.com/)  - High-performance C# PDF library with compatibility for various .NET versions, HTML to PDF conversion, content page conversion, file format support (e.g., DOCX, RTF, MD), responsive layouts, and robust PDF capabilities features ranging from compability, generating PDFs, formatting PDFs, and editing PDFs. **[$]** **[Free trial available]**
+* [Syncfusion .NET PDF Framework](https://www.syncfusion.com/document-processing/pdf-framework/net)  - A high-performance .NET PDF framework with no Adobe dependencies. Create, read, and edit PDF files seamlessly. Utilize PDF viewer controls for easy viewing, reviewing, and printing. Effortlessly convert HTML, Word, Excel, PowerPoint files, and images to PDF with powerful conversion APIs. **[$]** **[[Free for Individuals and Small Businesses](https://www.syncfusion.com/products/communitylicense)]**
 
 ## Profiler
 
@@ -1052,6 +1035,7 @@ metadata in media files, including video, audio, and photo formats
 ## Regular Expression
 
 * [RegExtract](https://github.com/sblom/RegExtract) - Clean & simple idiomatic C# RegEx-based line parser that emits strongly typed results.
+* [Gigantor](https://github.com/imagibee/Gigantor) - Fast regular expressions supporting gigantic files combining System.Text.RegularExpressions.Regex with multi-threading. 
 
 ## Scheduling
 
